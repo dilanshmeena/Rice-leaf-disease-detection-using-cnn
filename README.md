@@ -1,4 +1,4 @@
-# Rice Leaf Disease Detection
+# Rice Leaf Disease Detection Using CNN
 
 Classifies rice leaf images into three diseases: bacterial leaf blight, brown spot and leaf smut.
 
